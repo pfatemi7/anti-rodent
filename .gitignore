@@ -1,0 +1,13 @@
+# Arduino / ESP32 build
+build/
+*.elf
+*.bin
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
